@@ -1,3 +1,3 @@
 # Multi-turn-Dialogue-Response
 
-Goona submitting paper to conference. Code will release soon!
+It will be submitting the paper to the conference. The code will be released soon!
